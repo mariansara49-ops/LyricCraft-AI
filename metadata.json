@@ -1,0 +1,5 @@
+{
+  "name": "LyricCraft AI",
+  "description": "An AI-powered music lyrics generator. Provide a topic, genre, and mood, and let Gemini craft the perfect lyrics for your next song.",
+  "requestFramePermissions": []
+}
